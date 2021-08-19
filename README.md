@@ -1,7 +1,7 @@
 # How to use
 
 ```
-npm i quangtien-test-npm
+npm i -S quangtien-test-npm
 ```
 
 ```javascript
