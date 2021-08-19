@@ -1,0 +1,19 @@
+{
+  "name": "quangtien-test-npm",
+  "version": "1.0.0",
+  "description": "Learn npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TienLuu-Saritasa/quangtien-test-npm.git"
+  },
+  "author": "TienLuu-Saritasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TienLuu-Saritasa/quangtien-test-npm/issues"
+  },
+  "homepage": "https://github.com/TienLuu-Saritasa/quangtien-test-npm#readme"
+}
